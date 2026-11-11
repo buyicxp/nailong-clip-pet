@@ -1,0 +1,17 @@
+# 编译产物
+bin/
+obj/
+
+# 运行日志
+debug.log
+
+# 编辑器 / 系统临时文件
+.vs/
+*.user
+*.suo
+
+# 不要提交中间素材（原始大图、抠图候选、预览产物）
+Assets/art/anim_src/
+Assets/art/anim_prev/
+Assets/art/candidates/
+preview/
