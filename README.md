@@ -5,7 +5,7 @@
 纯 C# + WPF，**不用 Python、不用装运行库、不用 .NET SDK**，Win10/11 自带 .NET Framework 4.8 即可跑，
 单个 exe 双击启动。
 
-<p align="center"><img src="docs/final_50.png" width="420"></p>
+<p align="center"><img src="docs/hero.png" width="360"></p>
 
 ---
 
