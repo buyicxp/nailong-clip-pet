@@ -116,7 +116,7 @@ WPF 程序并自动把 `Assets` 拷到 `bin`，全程不联网、不装任何东
 恢复走注册表 `HKCU\Control Panel\Cursors\Arrow` + `LoadCursorFromFile`（`SPI_SETCURSORS` 实测无效），
 并且只在「手里有东西」时隐藏，粘贴/取消一开始立刻还箭头。
 
-<p align="center"><img src="docs/cursor_hand.png" width="300"><img src="docs/cur_faded.png" width="300"></p>
+（右键之后奶龙会降到 42% 透明好让右键菜单透出来，见上面的动图。）
 
 **2. 右键菜单的「粘贴」抓不到怎么办**
 
